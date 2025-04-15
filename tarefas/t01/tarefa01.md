@@ -8,8 +8,8 @@
 
 ## Questões
 
-### - [Q01](tarefa01-q02.sql)
-### - [Q04](tarefa01-q06.sql)
-### - [Q07](tarefa01-q10.sql)
-### - [Q013](tarefa01-q14.sql)
-### - [Q017](tarefa01-q17.sql)
+### - [Q02](tarefa01-q02.sql)
+### - [Q06](tarefa01-q06.sql)
+### - [Q10](tarefa01-q10.sql)
+### - [Q14](tarefa01-q14.sql)
+### - [Q17](tarefa01-q17.sql)
